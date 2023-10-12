@@ -1,0 +1,68 @@
+
+* {
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+
+.header {
+text-align: center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    position: relative;
+    top: -70px;
+    color: whitesmoke;
+}
+/*Rosin Bild + Text */
+.rosinimg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  top: -30px;
+  left: -800px;
+}
+.rosinquote {
+  color: black;
+  padding-left: 20%;
+  position: relative;
+  top: -400px;
+  font-size: 20px;
+  font-weight: 650;
+  font-family: 'Courier New', Courier, monospace, sans-serif;
+
+ }
+.intro {
+  color: black;
+  padding-left: 20%;
+  position: relative;
+  top: -375px;
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.links {
+  padding-left: 20%;
+  position: relative;
+  top: -350px;
+font-size: 20px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+
+  
+.flag--de {
+    background:linear-gradient(black 33%, red 33%, red 66%, gold 66%);
+    
+  }
+  .flag {
+    height: 100px;
+    width: 100%;
+    
+  }
+
